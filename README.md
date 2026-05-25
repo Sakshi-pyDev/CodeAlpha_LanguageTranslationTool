@@ -7,6 +7,8 @@ Features:
 - Real-time translation
 - Copy translated text
 - Download translated text
+- Voice output (Text-to-Speech)
+- Download translated audio
 
 Technologies Used:
 - Python
